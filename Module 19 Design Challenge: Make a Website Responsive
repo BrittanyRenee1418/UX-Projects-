@@ -1,0 +1,46 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lato&family=Poppins:wght@700&display=swap" rel="stylesheet">
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <header>
+      <nav>
+        <ul>
+          <li class="logo"><a href="https://uxuicurriculum.wixsite.com/gulproast"><img src="https://assets.codepen.io/6306176/gulp-logo-light.png" alt="Gulp Roast. Click for home." /></a></li>
+          <li><a href="https://uxuicurriculum.wixsite.com/gulproast"><span aria-hidden="true" class="fa-solid fa-mug-saucer"></span> About</a></li>
+          <li><a href="https://uxuicurriculum.wixsite.com/gulproast"><span aria-hidden="true" class="fa-solid fa-fire-flame-curved"></span> Products</a></li>
+          <li><a href="https://uxuicurriculum.wixsite.com/gulproast"><span aria-hidden="true" class="fa-solid fa-phone"></span> Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    </head>
+    <div class="main-bkgd">
+      <section class="main">
+        <article>
+      <head>
+    <link rel="style sheet" href="./style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/v4-font-face.min.css">
+    
+    <picture>
+    <img src=”https://lh3.googleusercontent.com/fife/APg5EOY6-7WK1Jj5XH8GiIZERXvwrLeAX1tK0zd29q6jqekQv-HRw97P0rjEpPPmeznaPJaAm_18t4G0Ylb9DV6wykjV90pVZ9K9ghSz8pLYjjylF1INW6i8ehwCtf2aGeokwzZKJu9-uTIz49oJwVGMqzXIVWtHUm4UR3wwHXHIj9IZQzxt9nipyTO8b3ze0GN21aBn5jOtylV7HcZD9wSljlNbrMVa_WDja8pGwxahJxsjrxQyTTH_hsbY0i8xxPRo7fqcKJBA4uRi_PeYmf1r87C9Efj3FSHxdw3-MeyopAy1JamzxTshxAquwFYeaqwkSkXORZGKxGvCYndEIS5Xe_KBw9yHmkhEThYLCNWdjENKi2A2FBJuTCg1m5OZQvgkXqRqd59M4W_2JQWGe-zjd_Qvx8-c35R2sf-W9p1qUvpKKtQyPUhj5hrU9etZXVe6ttg9hqjtVxUhUXN_nTUQsZQ5L8yDOn-ZkUJIOfjy9qxrefql86V_wyYP4Z4I2riT4Fxs_5cOO_HDC-PiptvycwNHpOM9XMRv7bh8RWZ630qLlzHXEUAP4mRWWEErhb_NDVdefLIlrSpW-1LXgSDVrtp_s3yLcVxc2zWwoFtLbSvtZi-A0sjAlnF6HYSX9xjV7UJqEkdZem8ZrT1zzxydp6hFxrzO5oLy9CTRgN7lH7LWn7DoACQz0Y2q42TNBVu977CpJ8kXXpW1acX5Ee4Aavzn_WDNR7f0jjGVeJT7Mgw3pfxjUUuV3O-Tdd1BdNzBBet316A9GlYHJ0_TX5IfEwdglhmmBNHMmlrnpyjJpxZ8-JR3y5bK0QHaX0-uMA6rOQLdiE5NX3E2wTG9FtMMfvL9225uhoSya1r195KjRopnVPRK-7hdutSNCbhvXBGf7a1f9vPa9VLzSeJQch0hkHncwx8Gd1S04cZG7JO2RBGrniylu2X_Ldvx57HgJ1O3MEJ1v9Eldv6VNc8SkB9tUt7Iy79wXJ8ZRE57HQlSTK0m4KFRcq1RKv6hiLHLxRrwBqfN_lvlblQBfL0F2DkkFsk9_ArYdyZEXt9O_sXk0-jf1TdvZMwlMsfvWR2eb9mD0MEQZuHVZP7mVXscE2_8MeG9nT9xW10okQ5jRb5ogpnYvvuPly8eTShx1EEyx_oHx0IeIZ2-xtGUr_3fpJ8fmGVkhaHlJx5NJApXycDY4Dq4e57iM7-XiNJmeDyedkHjBFf5MzqJS-_4yFQL88woKhf819Bp8w-BJnaELa9Pw8z7YHEA-K20yosd7GT1bpEkvaZ4OL5sstwd3KExaQeNlhxLf7c4O_KsL-5wYuSJ3Nu5rqETgzFL7nOtd4wzcy3N8W3AygL7O-Uw7rq6tlK7z9lmub_ZsTIYCyjuzk1l3OqjFCk4OrdrJd8XVlAu1q9fw8Q7r_mFzV8vWawRlA-YdbqCMgDF7DADHMq5mmAB8WF_EiPZPtLNmWpglpUQXC-ZXhfWtN-hpxdgwAOkIBjnkJ16x7eH5XMDawhviSaSNQnA2lP_cwoQDDE6UOcQlqHOi2995UwA=w1920-h1001”>
+    </picture>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gulp Roast Coffee</title>
+  </head>
+<body>
+    <h1>About Us</h1>
+      <p>Life without coffee is a gloomy place. That’s why Gulp Roast has been proudly serving up fresh coffee to the <a href="https://goo.gl/maps/3rAyszfwSDx8Si2Y9" target="_blank">San Francisco area</a> since 2000. Our coffee is locally sourced with the most delicious blends coming directly to your home, right from coffee farmers near you. Our coffee makes even the most difficult days just a tad easier to get through.</p>
+
+      <p>For us, this isn’t just brewing coffee. This is an active life mission to bring our customers the most flavorful, full-bodied beverages we can get our hands on. Browse our site to learn more about our locations and sourcing techniques.</p>
+
+      <a class="button" href="https://uxuicurriculum.wixsite.com/gulproast">Contact Us</a>
+      
+    </article>
+    </body>
+    </html>
+    
+
+    
